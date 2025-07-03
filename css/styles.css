@@ -92,7 +92,7 @@ header {
   display: flex;
   flex-wrap: wrap; /* Faz quebrar linha */
   justify-content: center; /* Centraliza horizontalmente */
-  gap: 0.5rem; /* Espaçamento entre os links */
+  gap: 0.9rem; /* Espaçamento entre os links */
   margin-top: 1rem;
 }
 
